@@ -226,7 +226,7 @@ export default function PersistentDrawerLeft() {
         디자인만 적용되고 암것도 안되어있음
         </Typography>
         <Typography paragraph>
-   아아 테스트
+ 배포 테스트
         </Typography>
       </main>
     </div>
